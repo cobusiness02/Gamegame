@@ -346,7 +346,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 95}
     m_SelectedIDs: f4e90000
     m_LastClickedID: 59892
-    m_ExpandedIDs: 00000000a2c50000a4c50000a6c50000a8c50000aac50000acc50000aec50000
+    m_ExpandedIDs: 000000000ec7000010c7000012c7000014c7000016c7000018c700001ac70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -375,7 +375,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a2c50000a4c50000a6c50000a8c50000aac50000acc50000aec50000
+    m_ExpandedIDs: 000000000ec7000010c7000012c7000014c7000016c7000018c700001ac70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 858.4232, y: 430.25433, z: 645.5632}
+    m_Target: {x: 113.959114, y: 51.892223, z: 125.04804}
     speed: 2
     m_Value: {x: 858.4232, y: 430.25433, z: 645.5632}
   m_RenderMode: 0
@@ -1150,11 +1150,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0024508494, y: 0.95537657, z: -0.29533404, w: 0.007930862}
+    m_Target: {x: 0.002371471, y: 0.9582838, z: -0.28576663, w: 0.007954983}
     speed: 2
     m_Value: {x: 0.0024508496, y: 0.9553766, z: -0.29533404, w: 0.007930862}
   m_Size:
-    m_Target: 1218.0712
+    m_Target: 517.9113
     speed: 2
     m_Value: 1218.0712
   m_Ortho:
@@ -1309,9 +1309,9 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 387.3333
-      height: 286.33334
+      height: 283
     m_Scale: {x: 0.3156896, y: 0.3156896}
-    m_Translation: {x: 193.108, y: 143.16667}
+    m_Translation: {x: 193.108, y: 141.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1319,12 +1319,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -611.70215
-      y: -453.50458
+      y: -448.2251
       width: 1226.9436
-      height: 907.00916
+      height: 896.4502
     m_MinimalGUI: 1
   m_defaultScale: 0.30260414
-  m_LastWindowPixelSize: {x: 387.3333, y: 307.33334}
+  m_LastWindowPixelSize: {x: 387.3333, y: 304}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
